@@ -1,0 +1,32 @@
+[
+    {
+        "key": 1001,
+        "img": "https://wedev0.netlify.app/img-10png/1.jpg",
+        "title": "Cancer (Oncology)",
+        "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. ",
+        "specialist": "Kurian Abraham",
+        "hospital": "Pantai Hospital Kuala Lumpur",
+        "cost": 5
+  
+      },
+    {
+        "key": 1002,
+        "img": "https://wedev0.netlify.app/img-10png/2.jpg",
+        "title": "Cancer (Oncology)",
+        "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. ",
+        "specialist": "Kurian Abraham",
+        "hospital": "Pantai Hospital Kuala Lumpur",
+        "cost": 5
+  
+      },
+    {
+        "key": 1003,
+        "img": "https://wedev0.netlify.app/img-10png/3.jpg",
+        "title": "Cancer (Oncology)",
+        "desc": "A lot of cancers are now curable, especially if detected at an early stage. Long-term remission is also possible in cancer detected at later stages. ",
+        "specialist": "Kurian Abraham",
+        "hospital": "Pantai Hospital Kuala Lumpur",
+        "cost": 5
+  
+      }
+]

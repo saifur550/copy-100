@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+body,
+html{
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar.navbar-expand-lg.navbar-primary.bg-light.sticky-top {
+	border-bottom: 2px solid #000;
+
+}
